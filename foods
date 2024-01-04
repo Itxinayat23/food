@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ 
+    <title>foods and halth</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+<marquee behavior ="scroll" direction="left"><b>Foods and health </b></marquee>
+
+<body>
+
+<h1><i>foods and health</i></h1>
+
+
+    <p>
+       <b> Rich in vitamins, minerals, and antioxidants.</B>
+        Aim for a variety of colors to ensure a broad range of nutrients.
+        Recommended servings: 5 or more servings of fruits and vegetables per day.
+        Whole Grains:
+        
+        Provide fiber, vitamins, and minerals.
+        Examples include brown rice, quinoa, oats, and whole wheat.
+        Protein Sources:
+        
+        Include lean proteins such as poultry, fish, tofu, legumes, nuts, and seeds.
+        Fish, especially fatty fish like salmon, is a good source of omega-3 fatty acids.
+        Dairy or Dairy Alternatives:</p>
+
+        <h2>list of foods</h2>
+        <ul>
+ <li>baryni</li>
+ <li>daal mash</li>
+ <li>bargar</li>
+ <li>achar</li>
+</ul>
+ <h3>More details</h3>
+
+ 
+<ol>
+<li><a href="https://unsplash.com/s/photos/biryani">baryani</a></li>
+
+<li><a href="https://www.masala.tv/masalaydaar-daal-mash-recipe/">daal mash</a></li>
+
+<li><a href="https://images.dawn.com/news/1178209"> achar</a></li>
+
+</ol>
+<video>
+<source src="https://youtu.be/YNqX6Qcta-o?si=nvFRsxu0W25cXPtV">
+
+
+
+
+</video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YNqX6Qcta-o?si=nvFRsxu0W25cXPtV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<form action="http://www.example.com/comments.php">
+    
+       <p>How do you like the website</p>
+     <textarea name="comments" cols="20" rows="4">Enter
+     your comments...</textarea>
+
+
+     <p>Subscribe to our email list:</p>
+     <input type="text" name="email" />
+     <input type="submit" name="subscribe">
+
+
+
+
+    </form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+</html>
+h1{color:lightcoral}
+body{background:url(https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ;}
+h2{color: darkred;}
+h3{color: darkmagenta
+    ;}
+video{width: 40px;}
+p{color: cyan;}
+marquee{color: ghostwhite;}
